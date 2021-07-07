@@ -1,1 +1,1 @@
-![Certificado](certificate-alura-pt_BR.png)
+![Certificado](https://cursos.alura.com.br/certificate/07c07c00-15c2-4e3c-bb4f-c464ecde403b)
