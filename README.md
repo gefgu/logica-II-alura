@@ -1,0 +1,1 @@
+![Certificado](certificate-alura-pt_BR.png)
